@@ -1,2 +1,0 @@
-# sounds
-sound for synth
